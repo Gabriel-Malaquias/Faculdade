@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Gabriel",
+        "idade": 18,
+        "senha": "1234"
+    },
+    {
+        "nome": "Rafael",
+        "idade": 20,
+        "senha": "2255"
+    },
+    {
+        "nome": "Pedro",
+        "idade": 36,
+        "senha": "8525"
+    },
+    {
+        "nome": "Patricia",
+        "idade": 26,
+        "senha": "1605"
+    },
+    {
+        "nome": "Flavio",
+        "idade": 40,
+        "senha": "9966"
+    },
+    {
+        "nome": "Leticia",
+        "idade": 24,
+        "senha": "7878"
+    }
+]
