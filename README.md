@@ -6,7 +6,7 @@
 <p>Finalizado o cadastro, o usuário será automaticamente redirecionado para a etapa de login onde deverá ser informado o nome cadastrado como usuário assim como sua senha</p>
 <p>Por fim, logo após o login, o usuário poderá realizar a conversão. A lógica de conversão consiste na entrada de dados em que é informado a <b>sigla</b> da moeda de origem (moeda que possui você e deseja converter) e a <b>sigla</b> da moeda de destino (moeda para a qual você deseja converter o valor). Em seguida, o usuário deverá informar o valor que deseja converter para que a lógica funcione e retorne o valor convertido.</p>
 <h2>Instalação</h2>
-<p>1) Baixar o repositório localmente em sua máquina. Para isso, utlize o comando: 
+<p>1) Baixar o repositório localmente em sua máquina. Para isso, utlize o comando: https://github.com/Gabriel-Malaquias/Faculdade.git 
 <p>2) Tenha uma IDE apropriada para programar em Python e executar o código. Exemplos: Pycharm ou VSCode</p>
 <h2>Como Contribuir ?</h2>
 <p>Se você estiver interessado em contribuir com este projeto, por favor, siga estas etapas:
